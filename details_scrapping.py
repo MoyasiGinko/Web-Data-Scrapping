@@ -19,7 +19,7 @@ def scrape_website_details(website_url):
 
         # Extract website name (domain)
         parsed_url = urlparse(website_url)
-        website_name = parsed_url.netloc
+        website_domain = parsed_url.netloc
 
         # Extract industry specialized (if available)
         industry = soup.find('p')  # Modify this based on actual HTML structure
@@ -51,12 +51,14 @@ def scrape_website_details(website_url):
         # Return the scraped details
         return {
             "Website Name": website_name,
+            "Website URL": website_domain,
             "Industry Specialized": industry,
             "Country": country,
             "Email 1": emails[0] if emails else "Not listed",
-            "Email 2": emails[1] if len(emails) > 1 else "Not listed",
+            "Email 2": "info@" + website_url.replace('www.', '').split('/')[2],  # Corrected
             "Telephone": telephone
         }
+
 
     except requests.exceptions.RequestException as e:
         print(f"Error scraping {website_url}: {e}")
@@ -68,12 +70,14 @@ scraped_data = []
 # Loop through each row in the DataFrame and scrape the details for each website
 for index, row in df.iterrows():
     website_url = row["Visit Website Link"]
+    website_name = row["Website Name"]
 
     # If there's no website link, we append the row with empty details
     if website_url == "Not available" or website_url == "Error":
         scraped_data.append({
             "Exhibitor Page URL": row["Exhibitor Page URL"],
             "Website Name": "",
+            "Website URL": "",
             "Industry Specialized": "",
             "Country": "UK",  # Assumed country
             "Email 1": "",
