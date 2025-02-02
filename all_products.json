@@ -1,0 +1,1238 @@
+[
+    {
+        "product_id": 1,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=198592",
+        "finish_options": [
+            "Antique Bronze",
+            "Black",
+            "Satin Nickel",
+            "White"
+        ],
+        "color_attributes": [
+            "Black / White Cord",
+            "Black Cord",
+            "Blue Cord",
+            "Copper Cord",
+            "Gray Cord",
+            "Orange Cord",
+            "Red Cord",
+            "White Cord"
+        ],
+        "attributes": [
+            "08 Feet",
+            "16 Feet",
+            "24 Feet"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 2,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=58250",
+        "finish_options": [
+            "Antique Bronze",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Frosted",
+            "Smoke"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "LED",
+                "XEN"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 3,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1155655",
+        "finish_options": [
+            "Dark Bronze",
+            "Natural Brass",
+            "Polished Nickel"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Size 024, Junction Box Driver, 120-277V",
+            "Size 024, Junction Box Driver, 120V",
+            "Size 024, Junction Box Driver, 277V",
+            "Size 036, Junction Box Driver, 120-277V",
+            "Size 036, Junction Box Driver, 120V",
+            "Size 036, Junction Box Driver, 277V",
+            "Size 048, Junction Box Driver, 120-277V",
+            "Size 048, Junction Box Driver, 120V",
+            "Size 048, Junction Box Driver, 277V",
+            "Size 084, Remote Driver, 120V",
+            "Size 084, Remote Driver, 277V",
+            "Size 084, Surface Driver, 120-277V",
+            "Size 108, Remote Driver, 120V",
+            "Size 108, Remote Driver, 277V",
+            "Size 108, Surface Driver, 120-277V",
+            "Size 132, Remote Driver, 120V",
+            "Size 132, Remote Driver, 277V",
+            "Size 132, Surface Driver, 120-277V",
+            "Size 240, Remote Driver, 120V",
+            "Size 240, Remote Driver, 277V",
+            "Size 240, Surface Driver, 120-277V"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 4,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=493513",
+        "finish_options": [
+            "Matte Black / Black ",
+            "Matte Black / Gold Haze",
+            "Matte Black / White",
+            "Matte White / Black",
+            "Matte White / Gold Haze",
+            "Matte White / White"
+        ],
+        "color_attributes": [],
+        "attributes": [],
+        "categories": {
+            "sizes": [
+                "6.1”",
+                "18”"
+            ],
+            "voltages": [],
+            "angles": [
+                "20°",
+                "30°",
+                "40°",
+                "60°"
+            ],
+            "temperatures": [
+                "2700K",
+                "3000K",
+                "3500K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 5,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=604820",
+        "finish_options": [
+            "Matte Black",
+            "Plated Brass"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "120V",
+            "277V"
+        ],
+        "categories": {
+            "sizes": [
+                "32.6”",
+                "55.5”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 6,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=495088",
+        "finish_options": [
+            "Aged Brass",
+            "Chrome",
+            "Satin Nickel"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "120V",
+            "277V"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 7,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1205269",
+        "finish_options": [
+            "Matte Black",
+            "Matte White",
+            "Natural Brass",
+            "Nightshade Black",
+            "Plated Brass",
+            "Polished Nickel",
+            "Satin Nickel"
+        ],
+        "color_attributes": [],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 8,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=333346",
+        "finish_options": [
+            "Grey",
+            "White"
+        ],
+        "color_attributes": [
+            "Blue",
+            "Copper",
+            "Gold",
+            "Platinum"
+        ],
+        "attributes": [
+            "Bulb Included",
+            "Bulb Not Included"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 9,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=333490",
+        "finish_options": [],
+        "color_attributes": [
+            "Rubberized Gray / Blue",
+            "Rubberized Gray / Copper",
+            "Rubberized Gray / Platinum",
+            "Rubberized White / Blue",
+            "Rubberized White / Platinum"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "INC",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 10,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=333524",
+        "finish_options": [],
+        "color_attributes": [
+            "Black",
+            "Copper"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [
+                "11.6”",
+                "17.3”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "INC",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 11,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=402550",
+        "finish_options": [
+            "Black",
+            "Satin Nickel",
+            "White"
+        ],
+        "color_attributes": [
+            "Charcoal Gray",
+            "White"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "INC",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 12,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=482402",
+        "finish_options": [
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Button Photocontrol",
+            "In-Line Fuse",
+            "In-Line Fuse, Surge Protection",
+            "No Options",
+            "Photocontrol, In-Line Fuse",
+            "Photocontrol, In-Line Fuse, Surge Protection",
+            "Photocontrol, Surge Protection",
+            "Surge Protection"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 13,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=482423",
+        "finish_options": [
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "In-Line Fuse",
+            "In-Line Fuse, Surge Protection",
+            "Standard",
+            "Surge Protection"
+        ],
+        "categories": {
+            "sizes": [
+                "12”",
+                "19.1”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 14,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=494545",
+        "finish_options": [
+            "Matte Black / Black ",
+            "Matte Black / Gold Haze",
+            "Matte Black / White",
+            "Matte White / Black",
+            "Matte White / Gold Haze",
+            "Matte White / White"
+        ],
+        "color_attributes": [],
+        "attributes": [],
+        "categories": {
+            "sizes": [
+                "12”",
+                "24”",
+                "36”",
+                "48”"
+            ],
+            "voltages": [],
+            "angles": [
+                "20°",
+                "30°",
+                "40°",
+                "60°"
+            ],
+            "temperatures": [
+                "2700K",
+                "3000K",
+                "3500K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 15,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=494872",
+        "finish_options": [
+            "Aged Brass",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Clear",
+            "Transparent Smoke"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "HAL",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 16,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=57755",
+        "finish_options": [
+            "Antique Bronze",
+            "Chrome",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Smoke",
+            "Steel Blue",
+            "White"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "HAL",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 17,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=750323",
+        "finish_options": [
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Standard",
+            "Surge Protection"
+        ],
+        "categories": {
+            "sizes": [
+                "6.4”",
+                "8.3”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 18,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=895461",
+        "finish_options": [
+            "Black",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Black / White Cord",
+            "Black Cord",
+            "Blue Cord",
+            "Copper Cord",
+            "Gray Cord",
+            "Orange Cord",
+            "Red Cord",
+            "White Cord"
+        ],
+        "attributes": [
+            "03-Light",
+            "07-Light",
+            "11-Light"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2200K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 19,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=343564",
+        "finish_options": [
+            "Black",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Black / White Cord",
+            "Black Cord",
+            "Blue Cord",
+            "Copper Cord",
+            "Gray Cord",
+            "Orange Cord",
+            "Red Cord",
+            "White Cord"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2200K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 20,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=62349",
+        "finish_options": [
+            "Antique Bronze",
+            "Chrome",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Smoke",
+            "Steel Blue",
+            "White"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [
+                "19.5”",
+                "27”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "HAL",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 21,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1205478",
+        "finish_options": [
+            "Natural Brass",
+            "Nightshade Black"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "4-Port",
+            "6-Port",
+            "8-Port"
+        ],
+        "categories": {
+            "sizes": [
+                "8.8”",
+                "18.3”",
+                "24.3”",
+                "30.3”",
+                "40.3”",
+                "50.3”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 22,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=402881",
+        "finish_options": [
+            "Aged Brass",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Clear",
+            "Smoke"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 23,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=401557",
+        "finish_options": [
+            "Antique Bronze",
+            "Chrome",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Charcoal Gray",
+            "White"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "HAL",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 24,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=482215",
+        "finish_options": [
+            "Black",
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Button Photocontrol",
+            "In-Line Fuse",
+            "No Options",
+            "Photocontrol, In-Line Fuse"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [
+                "20°",
+                "40°"
+            ],
+            "temperatures": [
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 25,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=482230",
+        "finish_options": [
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Button Photocontrol",
+            "In-Line Fuse",
+            "Photocontrol, In-Line Fuse",
+            "Standard"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 26,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=493454",
+        "finish_options": [
+            "Aged Brass / Aged Brass",
+            "Matte Black / Satin Nickel"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Bulb Included",
+            "Bulb Not Included"
+        ],
+        "categories": {
+            "sizes": [
+                "12.5”",
+                "22.5”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 27,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=493721",
+        "finish_options": [
+            "Matte Black / Black ",
+            "Matte Black / Gold Haze",
+            "Matte Black / White",
+            "Matte White / Black",
+            "Matte White / Gold Haze",
+            "Matte White / White"
+        ],
+        "color_attributes": [],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [
+                "20°",
+                "30°",
+                "40°",
+                "60°"
+            ],
+            "temperatures": [
+                "2700K",
+                "3000K",
+                "3500K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 28,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=494793",
+        "finish_options": [
+            "Plated Brass",
+            "Satin Nickel"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "120V",
+            "277V"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 29,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=604340",
+        "finish_options": [
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [
+            "Clear Cylinder",
+            "Clear Lens"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": [
+                "8W",
+                "18W"
+            ]
+        }
+    },
+    {
+        "product_id": 30,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=604457",
+        "finish_options": [],
+        "color_attributes": [],
+        "attributes": [
+            "Remote Transformer",
+            "Surface Transformer"
+        ],
+        "categories": {
+            "sizes": [
+                "47.5”",
+                "93.5”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K",
+                "3500K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 31,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=748561",
+        "finish_options": [
+            "Black",
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [],
+        "categories": {
+            "sizes": [
+                "12”",
+                "18”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 32,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=749477",
+        "finish_options": [
+            "Black",
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Button Photocontrol",
+            "No Options",
+            "Photocontrol, Surge Protection",
+            "Surge Protection"
+        ],
+        "categories": {
+            "sizes": [
+                "12”",
+                "18”"
+            ],
+            "voltages": [],
+            "angles": [
+                "10°",
+                "36°"
+            ],
+            "temperatures": [
+                "2700K",
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 33,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=918384",
+        "finish_options": [],
+        "color_attributes": [],
+        "attributes": [
+            "Button Photocontrol",
+            "Emergency Backup",
+            "GFCI",
+            "In-Line Fuse",
+            "Standard"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 34,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=924885",
+        "finish_options": [
+            "Black",
+            "Bronze"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Downlight",
+            "Up and Down Light"
+        ],
+        "categories": {
+            "sizes": [
+                "12”",
+                "20”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 35,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=895640",
+        "finish_options": [
+            "Aged Brass",
+            "Satin Nickel",
+            "White"
+        ],
+        "color_attributes": [],
+        "attributes": [],
+        "categories": {
+            "sizes": [
+                "3”",
+                "6”",
+                "12”",
+                "18”"
+            ],
+            "voltages": [],
+            "angles": [
+                "20°",
+                "30°",
+                "50°"
+            ],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [
+                "80",
+                "90"
+            ],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 36,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=342744",
+        "finish_options": [
+            "Antique Bronze",
+            "Chrome",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Smoke",
+            "White"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "HAL",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 37,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=343816",
+        "finish_options": [
+            "Black",
+            "Natural Brass",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Clear",
+            "Smoke"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "INC",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 38,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=77439",
+        "finish_options": [
+            "Aged Brass",
+            "Satin Nickel",
+            "White"
+        ],
+        "color_attributes": [],
+        "attributes": [],
+        "categories": {
+            "sizes": [
+                "3”",
+                "6”",
+                "12”",
+                "18”"
+            ],
+            "voltages": [],
+            "angles": [
+                "20°",
+                "30°",
+                "50°"
+            ],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [
+                "80",
+                "90"
+            ],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 39,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=62257",
+        "finish_options": [
+            "Antique Bronze",
+            "Satin Nickel"
+        ],
+        "color_attributes": [
+            "Antique Bronze",
+            "Gloss Black",
+            "Satin Nickel"
+        ],
+        "attributes": [],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [],
+            "numbers": [],
+            "words": [
+                "HAL",
+                "LED"
+            ],
+            "others": []
+        }
+    },
+    {
+        "product_id": 40,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=482218",
+        "finish_options": [
+            "Black",
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Button Photocontrol",
+            "In-Line Fuse",
+            "Photocontrol, In-Line Fuse",
+            "Standard"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 41,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=482226",
+        "finish_options": [
+            "Bronze",
+            "Charcoal"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "Button Photocontrol",
+            "In-Line Fuse",
+            "Photocontrol, In-Line Fuse",
+            "Standard"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "3000K",
+                "4000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 42,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=493262",
+        "finish_options": [
+            "Chrome",
+            "Satin Nickel"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "120V",
+            "277V"
+        ],
+        "categories": {
+            "sizes": [
+                "24”",
+                "36”",
+                "48”"
+            ],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "3000K",
+                "3500K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    },
+    {
+        "product_id": 43,
+        "url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=494759",
+        "finish_options": [
+            "Aged Brass",
+            "Chrome",
+            "Satin Nickel"
+        ],
+        "color_attributes": [],
+        "attributes": [
+            "120V",
+            "277V"
+        ],
+        "categories": {
+            "sizes": [],
+            "voltages": [],
+            "angles": [],
+            "temperatures": [
+                "2700K",
+                "3000K"
+            ],
+            "numbers": [],
+            "words": [],
+            "others": []
+        }
+    }
+]
